@@ -1,0 +1,15 @@
+{
+    "name": "php-react/php-react",
+    "description": "Using ReactJS with PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dcmunhoz",
+            "email": "dc.munhoz@hotmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.12"
+    }
+}
