@@ -9,7 +9,7 @@ $app = new Slim\App();
 
 $app->get('/' , function(Request $req, Response $res, $args){
 
-    require __DIR__ . '/public/index.php';
+    require __DIR__ . '/build/index.php';
 
 });
 
